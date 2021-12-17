@@ -13,6 +13,7 @@
   "detail_id_required": "Id required for detail",
   "delete_id_required": "Id required for delete",
   "user_deleted": "User deleted",
-  "age_not_valid": "Age should be more than 18"
+  "age_not_valid": "Age should be more than 18",
+  "limit&page_number": "limit and page number required"
 
 }

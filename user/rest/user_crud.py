@@ -48,6 +48,14 @@ def create_user():
 
 @app.route('/api/v1/user/list', methods=['GET'])
 def get_all_users():
+
+    lang = request.args.get("lang")
+
+    if request.args.get('limit') is None or request.args.get('page_number') is None:
+        return jsonify({
+            "errors": [response_process(lang, "limit&page_number")]
+        }), 400
+
     limit = request.args.get('limit')
 
     page_number = request.args.get('page_number')
