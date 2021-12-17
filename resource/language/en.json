@@ -1,0 +1,18 @@
+{
+  "successfully_registered": "Successfully Registered",
+  "user_already_exists": "User Mail Id Already Exists",
+  "first_name_required": "First Name is required",
+  "name_letters_only": "Name contains only letters",
+  "character_allowed_3to25": "character allowed 3 to 25",
+  "character_allowed_1to25": "character allowed 1 to 25",
+  "email_not_valid": "Email Id not valid",
+  "email_required": "Email Id is required",
+  "user_not_found": "user not found",
+  "update_id_required": "Id required for update",
+  "user_updated": "User Updated",
+  "detail_id_required": "Id required for detail",
+  "delete_id_required": "Id required for delete",
+  "user_deleted": "User deleted",
+  "age_not_valid": "Age should be more than 18"
+
+}

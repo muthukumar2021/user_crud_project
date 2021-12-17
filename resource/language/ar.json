@@ -1,0 +1,17 @@
+{
+  "successfully_registered": "سجلت بنجاح. رجاء تفحص بريدك الإلكتروني",
+  "user_already_exists": "معرف بريد المستخدم موجود بالفعل",
+  "first_name_required": "الإسم الأول مطلوب",
+  "name_letters_only": "الاسم الأول يحتوي على أحرف فقط",
+  "character_allowed_3to25": "الأحرف المسموح بها من 3 إلى 25",
+  "character_allowed_1to25": "الأحرف المسموح بها من 1 إلى 25",
+  "email_not_valid": "معرف البريد الإلكتروني غير صالح",
+  "email_required": "معرف البريد الإلكتروني مطلوب",
+  "user_not_found": "المستخدم ليس موجود",
+  "update_id_required": "المعرف مطلوب للتحديث",
+  "user_updated": "تم تحديث المستخدم",
+  "detail_id_required": "المعرف مطلوب للحصول على التفاصيل",
+  "delete_id_required": "المعرف مطلوب للحذف",
+  "user_deleted": "تم حذف المستخدم",
+  "age_not_valid": "يجب أن يكون العمر أكثر من 18 عامًا"
+}
